@@ -13,9 +13,8 @@ x
 y
 z
 
-Target feature: Price
 
-Basic questions:
+Target feature: Price
 
 
 Target correlations:
@@ -28,5 +27,9 @@ depth (x, y, z, table)
 table (x, y, z)
 
 Feature correlations:
+carat (cut, color, clarity, table)
+cut (color, clarity, depth, table)
+color (clarity, table, depth)
+clarity (depth, table)
 
 Hypothesis testing:
