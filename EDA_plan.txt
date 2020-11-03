@@ -16,6 +16,7 @@ z
 
 Target feature: Price
 
+Look for outliers
 
 Target correlations:
 
@@ -27,6 +28,7 @@ depth (x, y, z, table)
 table (x, y, z)
 
 Feature correlations:
+
 carat (cut, color, clarity, table)
 cut (color, clarity, depth, table)
 color (clarity, table, depth)
