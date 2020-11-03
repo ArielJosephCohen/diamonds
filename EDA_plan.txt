@@ -24,8 +24,6 @@ carat (cut, color, clarity, depth)
 cut (color, clarity, depth table)
 color (clarity, depth, table, z)
 clarity (depth, table, x, y)
-depth (x, y, z, table)
-table (x, y, z)
 
 Feature correlations:
 
