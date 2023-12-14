@@ -9,9 +9,7 @@ clarity (o)
 depth
 table
 price
-x
-y
-z
+
 
 
 Target feature: Price
